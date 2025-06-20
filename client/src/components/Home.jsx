@@ -52,6 +52,8 @@ export default function Portfolio() {
         </div>
       </section>
 
+      <section className="w-full max"></section>
+
       <section className="w-full max-w-5xl bg-[#1E293B] px-8 py-6 rounded-2xl shadow-lg">
         <h2 className="text-3xl font-bold text-[#A78BFA] mb-6 border-b border-[#334155] pb-2">
           Skills
