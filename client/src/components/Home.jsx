@@ -22,12 +22,17 @@ export default function Portfolio() {
         <p className="text-xl text-[#60A5FA] font-medium">
           Full-Stack Developer | Problem Solver
         </p>
+        <h5 className="text-2xl font-bold text-[#A78BFA]">About Me</h5>
         <p className="text-md text-[#94A3B8]">
-          Pursuing B.Tech at Kalasalingam Academy of Research and Education (Kalvium Program)
+          I’m Abhiram Kollepara, currently pursuing my B.Tech in Computer Science and Engineering at Kalasalingam Academy of Research and Education under the Kalvium Program — a unique, work-integrated, and industry-oriented curriculum focused on software product engineering.
+          I’m passionate about building impactful web applications, blending strong frontend design, backend architecture, and database management skills. Through the Kalvium program, I’ve gained hands-on experience in full-stack development,and real-world software projects from the first year itself.
         </p>
+        <br />
         <p className="text-md text-[#94A3B8]">
           Web Developer @ Coding Blocks KARE | Technical Member @ Vishaka KARE
         </p>
+        <br />
+        <p className="text-md text-[#94A3B8]">I’m always eager to learn new technologies, solve real-world problems, and grow as a developer. My goal is to build scalable, meaningful software that improves people's lives.</p>
       </header>
       <section className="w-full max-w-5xl bg-[#1E293B] px-8 py-6 rounded-2xl shadow-lg mb-8">
         <h2 className="text-3xl font-bold text-[#A78BFA] mb-6 border-b border-[#334155] pb-2">
