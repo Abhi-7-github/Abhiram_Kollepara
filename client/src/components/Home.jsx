@@ -12,8 +12,7 @@ export default function Portfolio() {
       {/* Header Section */}
       <header className="text-center mb-12">
         <img
-          src="public/abhiram.jpg"
-          alt="Abhiram's Profile"
+          src="/abhiram.jpg"
           className="w-32 h-32 md:w-40 md:h-40 rounded-full mb-6 border-4 border-[#A78BFA] object-cover shadow-lg"
         />
         <h1 className="text-5xl font-extrabold mb-4 tracking-tight">
